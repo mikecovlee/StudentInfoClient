@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">枣庄八中互联平台客户端</string>
+    <string name="app_author">版权所有 © 李登淳 2016</string>
+    <string name="login_activity">登录枣庄八中互联平台客户端</string>
+    <string name="info_activity">欢迎使用枣庄八中互联平台客户端</string>
+    <string name="egg_activity">调试页面</string>
+    <string name="help_alert">
+        枣庄八中互联平台客户端  帮助\n
+        本客户端可帮助同学们方便的查询自己的信息，例如成绩和评语。你必须输入你的学籍号，身份证号和密码用于登录。\n
+        你可以登录后修改自己的密码，默认密码为身份证号后6位。\n
+        本客户端由李登淳同学开发。感谢校领导和老师们的支持。\n
+        版权所有 © 李登淳 2016
+    </string>
+    <string name="DataBaseUrl">127.0.0.1/test.db3</string>
+    <string-array name="grade">
+        <item>高中一年级</item>
+        <item>高中二年级</item>
+        <item>高中三年级</item>
+    </string-array>
+    <string-array name="term">
+        <item>上学期</item>
+        <item>下学期</item>
+    </string-array>
+    <string-array name="type">
+        <item>第一次月考</item>
+        <item>期中考试</item>
+        <item>第二次月考</item>
+        <item>期末考试</item>
+    </string-array>
+    <string-array name="object">
+        <item>语文</item>
+        <item>数学</item>
+        <item>英语</item>
+        <item>物理</item>
+        <item>化学</item>
+        <item>生物</item>
+        <item>政治</item>
+        <item>历史</item>
+        <item>地理</item>
+        <item>总分</item>
+    </string-array>
+</resources>
